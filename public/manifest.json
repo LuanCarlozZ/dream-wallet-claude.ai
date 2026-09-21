@@ -1,8 +1,9 @@
 {
   "name": "FinControl",
   "short_name": "FinControl",
-  "description": "Sistema financeiro pessoal",
+  "description": "Controle simples de ganhos, contas e dinheiro livre para entregadores",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#141820",
   "theme_color": "#24b47e",
